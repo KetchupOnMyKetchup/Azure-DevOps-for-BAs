@@ -30,9 +30,10 @@ Contents of Recording:
 7. Work Item relationships (successor, predecessor, parent, child, etc)
 8. Azure DevOps Extensions: Vizualize for Work Item Relationships
 9. Bulk editing online and Excel for Work Items
-10. Creating Dashboards + Analytics Extension
-11. Utilizing the Wiki
-12. Setting up different processes (Agile, Scrum, etc) and how to change the team process, add custom rules, and custom work item types with custom fields
+10. Delivery Plans
+11. Creating Dashboards + Analytics Extension
+12. Utilizing the Wiki
+13. Setting up different processes (Agile, Scrum, etc) and how to change the team process, add custom rules, and custom work item types with custom fields
 
 # Hands-On Lab Sections
 ### 1. Create an Azure DevOps Account
