@@ -36,13 +36,5 @@ Contents of Recording:
 13. Setting up different processes (Agile, Scrum, etc) and how to change the team process, add custom rules, and custom work item types with custom fields
 
 # Hands-On Lab Sections
-### 1. Create an Azure DevOps Account
-### 2. Setting up a Kanban team and customization
-### 3. Setting up a Scrum team, Iterations, Product Increments
-### 4. What is a Work Item?
-### 5. Adding Epics / Features / User Stories (Work Items)
-### 6. Creating a good User Story (demo done by BA role, show breaking up an actual scenario into Epics/Features/User Stories)
-### 7. Work Item relationships (successor, predecessor, parent, child, etc)
-### 8. Azure DevOps Extensions: Vizualize for Work Item Relationships
-### 9. Bulk editing online and Excel for Work Items
-### 10. Setting up different processes (Agile, Scrum, etc) and how to change the team process, add custom rules, and custom work item types with custom fields
+Click here to go to the Lab!
+
