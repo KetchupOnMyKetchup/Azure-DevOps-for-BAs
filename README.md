@@ -21,7 +21,7 @@ The slides are available here:
 The live demo of the session will be posted here: TBD
 
 Contents of Recording: 
-1. Setting up an Azure DevOps Account
+1. Setting up an Azure DevOps Account and Project
 2. Setting up a Kanban team and customization
 3. Setting up a Scrum team, Iterations, Product Increments
 4. What is a Work Item?
