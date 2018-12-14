@@ -2,7 +2,7 @@
 Training for the IIBA (International Institute of Business Analysis) Tampa Meetup and available for anyone to utilize for free.  The training will be focused on learning how to utilize the Azure DevOps tool for creation of Epics/Features/User Stories and day to day functions in the life of a BA at work.  Additionally, there will be a module on writing User Stories and a lab scenario included for those new to the field. 
 
 Intended audience: 
-* Junior - Senior BAs who want to learn to use TFS/VSTS/Azure DevOps the tool
+* Junior to Senior BAs who want to learn to use TFS/VSTS/Azure DevOps the tool
 * Introduction to the BA field for those looking to start as a junior BA in the future and want to understand how to complete tasks using a tool and create basic Epics/Features/User Stories and manage backlogs
 
 **Quick History of Azure DevOps:**
