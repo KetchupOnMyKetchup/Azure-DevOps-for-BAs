@@ -36,5 +36,5 @@ Contents of Recording:
 13. Setting up different processes (Agile, Scrum, etc) and how to change the team process, add custom rules, and custom work item types with custom fields
 
 # Hands-On Lab
-[Click here](https://github.com/catenn/Business-Analyst-Training/wiki/Business-Analyst-Azure-DevOps-Training-Labs) to go to the Lab!
+[Click here](https://github.com/catenn/IIBA/wiki) to go to the Lab!
 
