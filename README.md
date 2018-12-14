@@ -15,7 +15,7 @@ Training for the IIBA (International Institute of Business Analysis) Tampa Meetu
 
 
 # Slides
-The slides are available here:
+The slides are available here for viewing online or download: [https://github.com/catenn/IIBA/blob/master/_IIBA_AzureDevOps.pdf](https://github.com/catenn/IIBA/blob/master/_IIBA_AzureDevOps.pdf)
 
 # Demo Recording
 The live demo of the session will be posted here: TBD
