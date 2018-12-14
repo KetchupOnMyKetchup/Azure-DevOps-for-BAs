@@ -18,22 +18,7 @@ Training for the IIBA (International Institute of Business Analysis) Tampa Meetu
 The slides are available here for viewing online or download: [https://github.com/catenn/IIBA/blob/master/_IIBA_AzureDevOps.pdf](https://github.com/catenn/IIBA/blob/master/_IIBA_AzureDevOps.pdf)
 
 # Demo Recording
-The live demo of the session will be posted here: TBD
-
-Contents of Recording: 
-1. Setting up an Azure DevOps Account and Project
-2. Setting up a Kanban team and customization
-3. Setting up a Scrum team, Iterations, Product Increments
-4. What is a Work Item?
-5. Adding Epics / Features / User Stories (Work Items)
-6. Creating a good User Story (demo done by BA role, show breaking up an actual scenario into Epics/Features/User Stories)
-7. Work Item relationships (successor, predecessor, parent, child, etc)
-8. Azure DevOps Extensions: Vizualize for Work Item Relationships
-9. Bulk editing online and Excel for Work Items
-10. Delivery Plans
-11. Creating Dashboards + Analytics Extension
-12. Utilizing the Wiki
-13. Setting up different processes (Agile, Scrum, etc) and how to change the team process, add custom rules, and custom work item types with custom fields
+The live demo of the session will be posted here: TBD after Jan 2019
 
 # Hands-On Lab
 [Click here](https://github.com/catenn/IIBA/wiki) to go to the Lab!
