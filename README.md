@@ -3,7 +3,20 @@ Training for the IIBA (International Institute of Business Analysis) Tampa Meetu
 
 Workshop Duration (2 hours):
 * 20 mins slides on Agile, Scrum, Kanban, DevOps, and Tooling (Azure DevOps/VSTS/TFS) History
+   * Devs = Code/Repos, use of Board and User Stories
+   * Build Engineers = CI/CD (build code, deploy the code to cloud, server, etc.)
+   * QA = Test suites/cases, creation of bugs
 * 25 mins demos of Azure DevOps
+   * What is a work item? What are work item relationships? Auditability/history of work item. What is Vizualise?
+   * What are other types of work items? Epics, Features, User Stories, Tasks, Bugs, and Test Cases. 
+   * Following work items
+   * Kanban vs. Sprint board setups
+   * Bulk editing to move items to different sprints / edit fields
+   * Searching for work items
+   * Delivery Plans and Feature Timeline and Epic Roadmap
+   * Work item tags (review bulk editing) and Queries
+   * Work item templates, Wiki, and Dashboard
+   * Custom processes
 * 25 mins group activity scenario
 * 10 mins present group activity scenario
 * 40 mins optional Azure DevOps tool lab on own / networking
