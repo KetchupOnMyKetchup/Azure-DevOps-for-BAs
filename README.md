@@ -2,8 +2,8 @@
 Training for the IIBA (International Institute of Business Analysis) Tampa Meetup and available for anyone to utilize for free.  The training will be focused on learning how to utilize the Azure DevOps tool for creation of Epics/Features/User Stories and day to day functions in the life of a BA at work.  Additionally, there will be a module on writing User Stories and a lab scenario included for those new to the field. 
 
 Workshop Duration (2 hours):
-* 15 mins slides on Agile, Scrum, Kanban, DevOps, and Tooling (Azure DevOps/VSTS/TFS) History
-* 30 mins demos of Azure DevOps
+* 20 mins slides on Agile, Scrum, Kanban, DevOps, and Tooling (Azure DevOps/VSTS/TFS) History
+* 25 mins demos of Azure DevOps
 * 20 mins group activity scenario
 * 15 mins present group activity scenario
 * 40 mins optional Azure DevOps tool lab on own / networking
