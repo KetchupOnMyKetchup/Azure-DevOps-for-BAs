@@ -4,8 +4,8 @@ Training for the IIBA (International Institute of Business Analysis) Tampa Meetu
 Workshop Duration (2 hours):
 * 20 mins slides on Agile, Scrum, Kanban, DevOps, and Tooling (Azure DevOps/VSTS/TFS) History
 * 25 mins demos of Azure DevOps
-* 20 mins group activity scenario
-* 15 mins present group activity scenario
+* 25 mins group activity scenario
+* 10 mins present group activity scenario
 * 40 mins optional Azure DevOps tool lab on own / networking
 
 Intended audience: 
