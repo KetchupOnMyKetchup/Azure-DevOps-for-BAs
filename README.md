@@ -1,13 +1,13 @@
 # Business Analyst Azure DevOps Training
 Training for the IIBA (International Institute of Business Analysis) Tampa Meetup and available for anyone to utilize for free.  The training will be focused on learning how to utilize the Azure DevOps tool for creation of Epics/Features/User Stories and day to day functions in the life of a BA at work.  Additionally, there will be a module on writing User Stories and a lab scenario included for those new to the field. 
 
-# Slides
+### Slides
 The slides are available here for viewing online or download: https://github.com/KetchupOnMyKetchup/Azure-DevOps-for-BAs/blob/master/_IIBA_AzureDevOps.pdf
 
-# User Scenario Practice
+### User Scenario Practice
 https://github.com/KetchupOnMyKetchup/Azure-DevOps-for-BAs/blob/master/IIBA%20TB_Azure%20DevOps%20Worshop_User%20Story%20Scenario_1.24.19.pdf
 
-# BA / Azure DevOps Reference Guide
+### BA / Azure DevOps Reference Guide
 https://github.com/KetchupOnMyKetchup/Azure-DevOps-for-BAs/blob/master/IIBA%20TB_Azure%20DevOps%20Worshop_BA%20Reference%20Guide_1.24.19.pdf
 
 # Hands-On Lab
