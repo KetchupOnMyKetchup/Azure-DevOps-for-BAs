@@ -42,7 +42,7 @@ End goal of workshop:
 
 
 # Slides
-The slides are available here for viewing online or download: [https://github.com/catenn/IIBA/blob/master/_IIBA_AzureDevOps.pdf](https://github.com/catenn/IIBA/blob/master/_IIBA_AzureDevOps.pdf)
+The slides are available here for viewing online or download: https://github.com/KetchupOnMyKetchup/Azure-DevOps-for-BAs/blob/master/_IIBA_AzureDevOpsv_final.pdf
 
 # Demo Recording
 The live demo of the session will be posted here: TBD after Jan 2019
