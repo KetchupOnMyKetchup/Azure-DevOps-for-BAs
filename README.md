@@ -1,6 +1,19 @@
 # Business Analyst Azure DevOps Training
 Training for the IIBA (International Institute of Business Analysis) Tampa Meetup and available for anyone to utilize for free.  The training will be focused on learning how to utilize the Azure DevOps tool for creation of Epics/Features/User Stories and day to day functions in the life of a BA at work.  Additionally, there will be a module on writing User Stories and a lab scenario included for those new to the field. 
 
+# Slides
+The slides are available here for viewing online or download: https://github.com/KetchupOnMyKetchup/Azure-DevOps-for-BAs/blob/master/_IIBA_AzureDevOps.pdf
+
+# User Scenario Practice
+https://github.com/KetchupOnMyKetchup/Azure-DevOps-for-BAs/blob/master/IIBA%20TB_Azure%20DevOps%20Worshop_User%20Story%20Scenario_1.24.19.pdf
+
+# BA / Azure DevOps Reference Guide
+https://github.com/KetchupOnMyKetchup/Azure-DevOps-for-BAs/blob/master/IIBA%20TB_Azure%20DevOps%20Worshop_BA%20Reference%20Guide_1.24.19.pdf
+
+# Hands-On Lab
+[Click here](https://github.com/catenn/IIBA/wiki) to go to the Lab!
+
+# Meetup Workshop Info
 Workshop Duration (2 hours):
 * 20 mins slides on Agile, Scrum, Kanban, DevOps, and Tooling (Azure DevOps/VSTS/TFS) History
    * Devs = Code/Repos, use of Board and User Stories
@@ -28,7 +41,7 @@ Intended audience:
 End goal of workshop:
 * At the end of this workshop, attendees should feel able to work at a company utilizing Azure DevOps for their Backlog items and be able to complete day to day tasks to complete their job as a BA.  They will have a hands-on understanding of all relevant Work Item creation/management at a fine-grained and high level, reporting/dashboards, wiki, and useful extensions.  From the demo, they will be aware of additional customization options that are available in Azure DevOps for process workflows, custom rules, and custom work items. 
 
-**Quick History of Azure DevOps:**
+# Quick History of Azure DevOps:
 *All of the below products are essentially the same product over time and has been rebranded with different names for the same product.  The on-premises version means that the product is intalled onsite on a server within a company, the cloud version means the product is installed on a Microsoft server accessible anywhere.  The on-premise version, for example, TFS 2015 is a snapshot of how VSTS looked in 2015 and frozen and shipped to customers.  Since the cloud version is controlled by Microsoft, updates and bug fixes are pushed every 3 weeks to Azure DevOps. The current on-premises product available is Azure DevOps Server and the cloud version is Azure DevOps.  VSTS was rebranded to Azure DevOps in September 2018 and essentially has a UI refresh and some feature updates.*
 
 | Product Name | Form | Release Year |
@@ -41,15 +54,5 @@ End goal of workshop:
 | Azure DevOps	 | Cloud | 2018+ | | 
 
 
-# Slides
-The slides are available here for viewing online or download: https://github.com/KetchupOnMyKetchup/Azure-DevOps-for-BAs/blob/master/_IIBA_AzureDevOps.pdf
 
-# User Scenario Practice
-https://github.com/KetchupOnMyKetchup/Azure-DevOps-for-BAs/blob/master/IIBA%20TB_Azure%20DevOps%20Worshop_User%20Story%20Scenario_1.24.19.pdf
-
-# BA / Azure DevOps Reference Guide
-https://github.com/KetchupOnMyKetchup/Azure-DevOps-for-BAs/blob/master/IIBA%20TB_Azure%20DevOps%20Worshop_BA%20Reference%20Guide_1.24.19.pdf
-
-# Hands-On Lab
-[Click here](https://github.com/catenn/IIBA/wiki) to go to the Lab!
 
