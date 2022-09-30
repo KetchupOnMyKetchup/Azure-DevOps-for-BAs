@@ -42,12 +42,13 @@ End goal of workshop:
 
 
 # Slides
-The slides are available here for viewing online or download: https://github.com/KetchupOnMyKetchup/Azure-DevOps-for-BAs/blob/master/_IIBA_AzureDevOpsv_final.pdf
+The slides are available here for viewing online or download: https://github.com/KetchupOnMyKetchup/Azure-DevOps-for-BAs/blob/master/_IIBA_AzureDevOps.pdf
 
-# Demo Recording
-The live demo of the session will be posted here: TBD after Jan 2019
+# User Scenario Practice
+https://github.com/KetchupOnMyKetchup/Azure-DevOps-for-BAs/blob/master/IIBA%20TB_Azure%20DevOps%20Worshop_User%20Story%20Scenario_1.24.19.pdf
 
-The demo will include explanations for all lab steps + team/project settings + custom processes/workflows + custom rules + more! 
+# BA / Azure DevOps Reference Guide
+https://github.com/KetchupOnMyKetchup/Azure-DevOps-for-BAs/blob/master/IIBA%20TB_Azure%20DevOps%20Worshop_BA%20Reference%20Guide_1.24.19.pdf
 
 # Hands-On Lab
 [Click here](https://github.com/catenn/IIBA/wiki) to go to the Lab!
